@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects relating to Data Analysis 
 - 📫 How to reach me: umokwecaleb@gmail.com, caleb-umokwe on LinkedIn 
 - 😄 Pronouns: she or maybe he
-- ⚡ Fun fact: enjoy cleaning data
+- ⚡ Fun fact: enjoy visualizing data
 
 <!---
 Caleb-Umokwe/Caleb-Umokwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
